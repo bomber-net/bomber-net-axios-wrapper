@@ -1,0 +1,28 @@
+{
+	"name":"bomber-net-axios-wrapper",
+	"version":"1.2.3",
+	"description":"Wrapping methods for Axios library",
+	"main":"src/index.js",
+	"exports":{
+		".":{
+			"import":"./src/index.js",
+			"require":"./src/index.js"
+		}
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+ssh://git@github.com/bomber-net/axios-wrapper.git"
+	},
+	"author":"bomber-net",
+	"license":"ISC",
+	"bugs":{
+		"url":"https://github.com/bomber-net/axios-wrapper/issues"
+	},
+	"homepage":"https://github.com/bomber-net/axios-wrapper#readme",
+	"dependencies":{
+		"axios":"^1.2.2"
+	},
+	"devDependencies":{
+		"vite":"^4.0.4"
+	}
+}
