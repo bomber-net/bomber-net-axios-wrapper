@@ -1,6 +1,6 @@
 {
 	"name":"bomber-net-axios-wrapper",
-	"version":"1.2.3",
+	"version":"1.2.4",
 	"description":"Wrapping methods for Axios library",
 	"main":"src/index.js",
 	"exports":{
